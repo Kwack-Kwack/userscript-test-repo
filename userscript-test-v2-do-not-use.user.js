@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         userscript-test-do-not-use
+// @name         userscript-test-v2-do-not-use
 // @namespace    dev.kwack.scripts
 // @version      0.0.1
 // @description  try to take over the world!
